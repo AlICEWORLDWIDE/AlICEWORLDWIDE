@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @AlICEWORLDWIDE
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
  😍 ALICEWORLDWIDE ❤️✨
  
  😻💦 WELCOME TO MY PROFILE 🧡🌼
@@ -19,18 +13,18 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/SABBIR404-CYBER/count.svg)
 
-- ![Profile views](https://gpvc.arturio.dev/SABBIR404-CYBER)
-- [![GitHub followers](https://img.shields.io/github/followers/SABBIR404-CYBER.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/SABBIR404-CYBER?tab=followers)
+- ![Profile views](https://gpvc.arturio.dev/ALICEWORLDWIDE)
+- [![GitHub followers](https://img.shields.io/github/followers/ALICEWORLDWIDE.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/ALICEWORLDWIDE?tab=followers)
 
 ![Alt text](https://camo.githubusercontent.com/bdc2bf0e7c954ae3cecff56b9712a4411a87c014780b8de8ee050f4f6a3c7b55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174736170702d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070)
 
 > GITHUB STATES :
 
-<a href="https://github.com/SABBIR404-CYBER"><img width=550 src="https://github-profile-trophy.vercel.app/?username=SABBIR404-CYBER&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/ALICEWORLDWIDE"><img width=550 src="https://github-profile-trophy.vercel.app/?username=ALICEWORLDWIDE&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SABBIR404-CYBER&theme=merko)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ALICEWORLDWIDE&theme=merko)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SABBIR404-CYBER&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ALICEWORLDWIDE&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MohsinTheLegend&layout=compact&theme=chartreuse-dark" />
 
@@ -39,8 +33,8 @@
 <p align="left">
 
 
-<a href="https://fb.com/MR.SABBIR.OFFICIAL404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MR.SABBIR.OFFICIAL404" height="30" width="40" /></a>
-<a href="https://github.com/SABBIR404-CYBER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.facebook.com/MR.SABBIR.OFFICIAL404" height="30" width="40" /></a>
+<a href="https://fb.com/ALICEWORLDWIDE" target="blank"><img align="center" src="https://raw.githubusercontent.com/ALICEWORLDWIDE/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ALICEWORLDWIDE" height="30" width="40" /></a>
+<a href="https://github.com/ALICEWORLDWIDE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.facebook.com/ALICEWORLDWIDE" height="30" width="40" /></a>
 
 
 
